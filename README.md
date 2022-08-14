@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a sophomore studying Information Technology (IT) at the University Of Science in Ho Chi Minh City (HCMUS).
 
 <!--
 **cubist38/cubist38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
